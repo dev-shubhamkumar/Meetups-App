@@ -28,4 +28,4 @@ function AllMeetupsPage() {
   </section>
 }
   
-  export default AllMeetupsPage;
+export default AllMeetupsPage;
